@@ -1,7 +1,5 @@
-복습 파일 모음
+React Todo List 
 ==========
-
-# React Todo List 
 
 ## ✔ LOG
 > ### 2022.04.17
